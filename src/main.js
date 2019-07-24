@@ -1,4 +1,4 @@
 import { attach_filepickers } from './file_picker';
-import 'bootstrap';
+import 'bootstrap/js/dist/modal';
 
 attach_filepickers();

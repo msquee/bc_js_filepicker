@@ -51,7 +51,6 @@
 <script>
 import * as pathmod from 'path-browserify';
 import Vue from 'vue';
-import jQuery from 'jquery';
 import VueObserveVisibility from 'vue-observe-visibility'
 
 Vue.use(VueObserveVisibility);
